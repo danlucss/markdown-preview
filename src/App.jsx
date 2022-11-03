@@ -26,7 +26,7 @@ const App = () => {
   4. I like to play with my children
 
   Please, **call-me** if u wh**and** to **talk** or know me better
-  [whatsapp](https://wa.me/5511988888888)
+  [whatsapp](http://api.whatsapp.com/send?phone=5562993298751)
 
   [And that's my portifolio](https://danlucss.netlify.app/)
   \`you can really aprecciate it\`

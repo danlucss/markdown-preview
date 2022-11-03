@@ -24,9 +24,8 @@
     height: 500px;
     border: 1px solid #ccc;
 
-    background-color: #f8f8f8;
+    background-color: #ffffff;
     font-size: 14px;
-
     border: 2px solid black;
 }
 
@@ -37,7 +36,7 @@
     margin-top: 20px;
 
     font-size: 20px;
-    background-color: rgba(154, 195, 202, 0.377);
+    background-color: rgb(227, 228, 228);
 }
 
 img {
@@ -53,4 +52,8 @@ code {
     max-width: 1200px;
     text-overflow: clip;
     white-space: pre-wrap;
+}
+
+.App > h1 {
+    color: #fff;
 }
