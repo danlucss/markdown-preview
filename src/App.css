@@ -4,6 +4,10 @@
     align-items: center;
     justify-content: center;
     font: 14px "Century Gothic", Futura, sans-serif;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
 }
 
 .container {
@@ -16,19 +20,22 @@
 }
 
 #editor {
-    width: 100%;
+    width: 90%;
     height: 500px;
     border: 1px solid #ccc;
-    text-align: center;
+
     background-color: #f8f8f8;
     font-size: 14px;
+
+    border: 2px solid black;
 }
 
 #preview {
-    width: 100%;
+    width: 90%;
     border: 1px solid #ccc;
     padding: 20px;
     margin-top: 20px;
+
     font-size: 20px;
     background-color: rgba(154, 195, 202, 0.377);
 }
@@ -40,4 +47,10 @@ img {
 
 strong {
     color: rgba(255, 0, 0, 0.568);
+}
+
+code {
+    max-width: 1200px;
+    text-overflow: clip;
+    white-space: pre-wrap;
 }

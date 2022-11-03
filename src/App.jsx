@@ -27,7 +27,8 @@ const App = () => {
 
   Please, **call-me** if u wh**and** to **talk** or know me better
   [whatsapp](https://wa.me/5511988888888)
-  [that's my portifolio](https://danlucss.netlify.app/)
+
+  [And that's my portifolio](https://danlucss.netlify.app/)
   \`you can really aprecciate it\`
 
   > *And that's a ME*
